@@ -412,7 +412,7 @@ ul.menu-list{
     border: none;
     border-radius: 5px;
 }
-#textarea{
+#message{
     resize:none;
     background-color: lightgray;
     margin: 15px 20px;
@@ -420,7 +420,7 @@ ul.menu-list{
     border-radius: 5px;
     font-family: 'Open Sans', sans-serif;
 }
-#textarea::placeholder{
+#message::placeholder{
     padding:20px;
 }
 .form input[type="submit"]{
